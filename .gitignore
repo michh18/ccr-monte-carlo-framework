@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional: if you don't want to push CSVs)
+data/raw/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
